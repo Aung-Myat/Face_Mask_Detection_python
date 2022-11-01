@@ -10,12 +10,12 @@ And it is very simple in training compared with the others.
 
 For beginners, this repo is built to easily understand how CNN layers are used and how the input images are preprocessed before transfered into deep learning model.
 
-#Dataset Download Link
+# Dataset Download Link
 https://drive.google.com/file/d/1BZNHNOnGBWzwHDaXLiWt-aYJWBnalRFg/view?usp=share_link
 
-#How to test this repo
+# How to test this repo
 First download this repo.
 Then, open the python file (.py) in IDE.
 Add data directory for datasets... in the python file.
 
-#Tested Result
+# Tested Result
