@@ -15,7 +15,10 @@ https://drive.google.com/file/d/1BZNHNOnGBWzwHDaXLiWt-aYJWBnalRFg/view?usp=share
 
 # How to test this repo
 First download this repo.
+
 Then, open the python file (.py) in IDE.
+
 Add data directory for datasets... in the python file.
 
 # Tested Result
+You can check demo running result photo in testing file of this repo 
